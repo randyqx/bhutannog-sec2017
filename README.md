@@ -20,9 +20,14 @@ Session 4 |16:00 - 17:30
 **maz**    | Yoshinobu Matzusaki | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 **randy**  | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 
-## Official Song
+## Tools
 
-[Spyin’ NSA](http://www.anagram.com/jcrap/Volume**9/spyin.pdf) - by Keith Alexander, Daniel J. Bernstein, Timo Kasper, Tanja Lange, and Peter Schwabe]
+If you run a datacenter or a significant office LAN, you should look
+seriously at running a few [Canaries](https://canary.tools/); and a
+[Guide for Deploying
+Canaries](http://blog.thinkst.com/2017/04/a-guide-to-birding-aka-tips-for.html).
+
+[pfSense](https://www.pfsense.org/), a free Firewall, VPN, ... solution.
 
 ## Movies!
 
@@ -31,11 +36,9 @@ Some time during the week, please watch Haroon Meer's excellent keynote,
 Offense](//[http://t2.fi/2017/02/05/haroon-meer-keynote-2016/), from the
 t2’16 Infosec Conference in Helsinki.
 
-## Tools
+## Official Song
 
-If you run a datacenter or a significant office LAN, you should look
-seriously at running [Canaries](https://canary.tools/); and a [Guide for
-Deploying Canaries](http://blog.thinkst.com/2017/04/a-guide-to-birding-aka-tips-for.html).
+[Spyin’ NSA](http://www.anagram.com/jcrap/Volume**9/spyin.pdf) - by Keith Alexander, Daniel J. Bernstein, Timo Kasper, Tanja Lange, and Peter Schwabe
 
 ## Agenda
 
