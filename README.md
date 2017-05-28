@@ -1,4 +1,4 @@
-# Bhutan NOG 2017 Security Workshop 2017.06.05-09
+# Bhutan NOG 2017 Security Workshop 2017.06.06-09
 
 ## Daily Schedule
 
