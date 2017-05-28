@@ -17,7 +17,7 @@ Session 4 |16:00 - 17:30
  Instructor | Name | Affiliation | Country
 :-----------|:--------------------|:-------------|:--------------
 **alisha** | Alisha Gurung | [Bhutan Telcom](https://bt.bt) | Bhutan
-**maz**    | Yoshinobu Matzusaki | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
+**maz**    | Yoshinobu (Maz) Matzusaki | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 **randy**  | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 
 ## Tools
