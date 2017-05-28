@@ -36,7 +36,6 @@ t2’16 Infosec Conference in Helsinki.
 Day/Session | Topic | Instructor | Material
 :----------------|:---------------------|:-------------------|:-------------------------
 **Day 1**  |**Topic**             |**Instructor**           |**Materials**
-              |                         |                      |
 Session 0     | Intro                   | randy                | [1-0-1 Intro](raw-attachment:1-0-1.intro.pdf)
               | - admin                 |                      |
               | - agenda                |                      |
