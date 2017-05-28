@@ -34,7 +34,7 @@ t2’16 Infosec Conference in Helsinki.
 ## Tools
 
 If you run a datacenter or a significant office LAN, you should look
-seriously at running [Canaries](https://canarytokens.org/).
+seriously at running [Canaries](https://canary.tools/).
 
 ## Agenda
 
