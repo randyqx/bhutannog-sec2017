@@ -34,7 +34,8 @@ t2’16 Infosec Conference in Helsinki.
 ## Tools
 
 If you run a datacenter or a significant office LAN, you should look
-seriously at running [Canaries](https://canary.tools/).
+seriously at running [Canaries](https://canary.tools/); and a [Guide for
+Deploying Canaries](http://blog.thinkst.com/2017/04/a-guide-to-birding-aka-tips-for.html).
 
 ## Agenda
 
