@@ -35,7 +35,10 @@ t2’16 Infosec Conference in Helsinki.
 
 Day/Session | Topic | Instructor | Material
 :----------------|:---------------------|:-------------------|:-------------------------
+|             |                         |                      |
+|             |                         |                      |
 **Day 1**  |**Topic**             |**Instructor**           |**Materials**
+|             |                         |                      |
 Session 0     | Intro                   | randy                | [1-0-1 Intro](1-0-1.intro.pdf)
 |              | - admin                 |                      |
 |              | - agenda                |                      |
@@ -63,6 +66,7 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 |             | - PGP Lab               | maz & alisha          | [1-3-2 PGP Lab](1-3-2.PGP**Lab.pdf)
 |             |                         |                      | [1-3-1 GPG Mail for Mac OS X]()
 |             |                         |                      |
+|             |                         |                      |
 **Day 2**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | Cryptography Applications |                    |
@@ -73,6 +77,7 @@ Session 2     | Wireshark               | maz                  | [2-2-1 wireshar
 Session 3     | Cryptography Applications | maz                |
 |             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
 Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
+|             |                         |                      |
 |             |                         |                      |
 **Day 3**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
@@ -85,6 +90,7 @@ Session 2     | anomaly and firewalls | maz                |
 |             | - fierwalls      |                     | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 3              | SSL | pappu | [3-2-1.ssl](3-2-1.ssl.pdf)
 |             |           | pappu           | [3-2-2.ssl lab](3-2-2.ssl**lab.pdf)
+|             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
@@ -103,6 +109,7 @@ Session 4     | Virus, Mail and Browsing |                     |
 |             | - Safe Browsing Practices | randy              | [4-4-3 Safer browsing](4-4-3.safer-browsing.pdf)
 |             | - File & Disk Encryption | randy               | [4-4-4 File & Disk Encryption](4-4-4.file-encrypt.pdf)
 |             |                         |                      |
+|             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | Inter-Host Protocols    |                      |
@@ -114,6 +121,7 @@ Session 3 & 4 | Dessert                    | randy                |
 |             | Protecting Routing Protocols | randy           | [Protecting Routing Protocols](160219.routing-protocols.pdf)
 |             | Telco vs Internet & Complexity | randy         | [Complexity](6-6-6.complexity.pdf)
 |             | Critical Infrastructure and SW Eng | randy     | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)
+|             |                         |                      |
 |             |                         |                      |
 **Day 6**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
