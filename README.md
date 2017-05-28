@@ -31,6 +31,11 @@ Some time during the week, please watch Haroon Meer's excellent keynote,
 Offense](//[http://t2.fi/2017/02/05/haroon-meer-keynote-2016/), from the
 t2’16 Infosec Conference in Helsinki.
 
+## Tools
+
+If you run a datacenter or a significant office LAN, you should look
+seriously at running [Canaries](https://canarytokens.org/).
+
 ## Agenda
 
 Day/Session | Topic | Instructor | Material
