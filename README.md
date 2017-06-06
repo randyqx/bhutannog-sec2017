@@ -7,10 +7,10 @@
 Session 1 |09:00 - 10:30
 Tea       |10:30 - 11:00
 Session 2 |11:00 - 12:30
-Lunch     |12:30 - 14:00
-Session 3 |14:00 - 15:30
-Tea       |15:30 - 16:00
-Session 4 |16:00 - 17:30
+Lunch     |12:30 - 13:30
+Session 3 |13:30 - 15:00
+Tea       |15:00 - 15:30
+Session 4 |15:30 - 17:00
 
 ## Instructors
 
@@ -71,9 +71,11 @@ Session 2     | Cryptography            | randy                | [1-2-1 Crypto O
 |             | - hash functions        |                      |
 |             | - certificates & trust anchors |               |
 Session 3-4   | Cryptography Applications / PGP | maz          |
-|             | - gpg                   |                      | [1-3-1 PGP](1-3-1.PGP.pdf)
-|             | - PGP Lab               | maz & alisha          | [1-3-2 PGP Lab](1-3-2.PGP**Lab.pdf)
-|             |                         |                      | [1-3-1 GPG Mail for Mac OS X]()
+|             | - checksum              | maz                  | [1-3-1 checksum](1-3-1.checksum.pdf)
+|             |                         |                      | [1-3-1 hello-unix.dat](hello-unix.dat)
+|             |                         |                      | [1-3-1 hello-win.dat](hello-win.dat)
+|             | - PGP Lab               | maz & alisha         | [1-3-2 PGP](1-3-2.pgp.pdf)
+|             |                         |                      | 
 |             |                         |                      |
 |             |                         |                      |
 **Day 2**  |**Topic**             |**Instructor**           |**Materials**
