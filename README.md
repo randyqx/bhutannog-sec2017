@@ -75,8 +75,8 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 |             |                         |                      | [1-3-1 hello-unix.dat](hello-unix.dat)
 |             |                         |                      | [1-3-1 hello-win.dat](hello-win.dat)
 |             | - PGP Lab               | maz & alisha         | [1-3-2 PGP](1-3-2.pgp.pdf)
-|             |                         |                      | 
-|             |                         |                      |
+|             |                         |                      | [1-3-2 email-header](1-3-2.email-header.pdf)
+|             |                         |                      | [1-3-2 mailvelope](1-3-2.mailvelope.pdf)
 |             |                         |                      |
 **Day 2**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
