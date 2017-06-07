@@ -83,8 +83,8 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 Session 1     | Cryptography Applications |                    |
 |             | - ssh                   | randy                | [2-1-1 SSH](2-1-1.ssh.pdf)
 |             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)
-Session 2     | Wireshark               | maz                  | [2-2-1 wireshark](2-2-1.Wireshark.pdf)
-|             | - wireshark lab         | maz & alsiha         | [2-2-2 wireshark lab](2-2-2.WiresharkExerciseData.zip)
+Session 2     | Wireshark               | maz                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
+|             | - wireshark lab         | maz & alsiha         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
 Session 3     | Cryptography Applications | maz                |
 |             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
 Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
