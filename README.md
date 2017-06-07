@@ -93,13 +93,13 @@ Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN 
 **Day 3**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | Network Infrastructure  |                |
-|             | - overview | cristel | [3-1-1 rtrs-switches](3-1-1.rtrs-switches.pdf)
-|             | - data plane            | cristel               |  [3-1-2 Filtering at border](3-1-2.Filtering-at-border.pdf)
+|             | - overview | maz | [3-1-1 rtrs-switches](3-1-1.rtrs-switches.pdf)
+|             | - data plane            | maz               |  [3-1-2 Filtering at border](3-1-2.Filtering-at-border.pdf)
 |             | - Logging and Monitoring | maz              | [3-1-3 Logging Monitoring](3-1-3.logging-monitoring.pdf)
 Session 2     | anomaly and firewalls | maz                |
 |             | - anomaly      |                     | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - fierwalls      |                     | [3-2-2 firewalls](3-2-2.firewalls.pdf)
-Session 3     | DNS & DNS Security      | randy                |
+Session 3     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [3-4-1 DNS](DNS.pptx)
 |             | - DNS Security          |                      | [3-4-2 DNS Security](DNS**Security.pptx)
 |             | - DNS Rate Limiting     |                      | [3-4-3 DNS Rate Limiting](3-4-3.dns-rate-limit.pdf)
@@ -108,12 +108,8 @@ Session 4     | nmap                    | maz                  |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | DNS & DNS Security      | alisha               |
-|             | - DNS                   |                      | [4-1-1 DNS](DNS.pptx)
-|             | - DNS Security          |                      | [4-1-2 DNS Security](DNS**Security.pptx)
-|             | - DNS Rate Limiting     | randy                | [4-1-3 DNS Rate Limiting](4-1-3.dns-rate-limit.pdf)
-Session 2     |IDS                      |                   |
-|             | - IDS pragmatics - snort | cristel                   | [4-2-1.snort](4-2-1.snort.pdf)
+Session 1     | IDS                      |                   |
+|             | - IDS pragmatics - snort | maz                 | [4-2-1.snort](4-2-1.snort.pdf)
 |             | - IDS pragmatics - snort-lab | cristel & pappu                    | [4-2-2.snort-lab](4-2-2.snort-lab.pdf) | [4-2-3.snort**lab**answer](4-2-3.snort**lab**answer.rtf)
 Session 3     | Protecting Hosts from Net | maz                |
 |             | - hosts                 |                      | [4-3-1 Hosts](4-3-1.host.pdf)
