@@ -102,7 +102,7 @@ Session 2     | anomaly and firewalls | maz                |
 Session 3     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [3-4-1 DNS](DNS.pptx)
 |             | - DNS Security          |                      | [3-4-2 DNS Security](DNS**Security.pptx)
-|             | - DNS Rate Limiting     |                      | [3-4-3 DNS Rate Limiting](3-4-3.dns-rate-limit.pdf)
+|             | - DNS Rate Limiting     | randy                | [3-4-3 DNS Rate Limiting](3-4-3.dns-rate-limit.pdf)
 Session 4     | nmap                    | maz                  |
 |             |                         |                      |
 |             |                         |                      |
