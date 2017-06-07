@@ -108,7 +108,7 @@ Session 4     | nmap                    | maz                  |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | DNS & DNS Security      | randy                |
+Session 1     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [4-1-1 DNS](DNS.pptx)
 |             | - DNS Security          |                      | [4-1-2 DNS Security](DNS**Security.pptx)
 |             | - DNS Rate Limiting     | randy                | [4-1-3 DNS Rate Limiting](4-1-3.dns-rate-limit.pdf)
