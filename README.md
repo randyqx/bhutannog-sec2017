@@ -99,13 +99,15 @@ Session 1     | Network Infrastructure  |                |
 Session 2     | anomaly and firewalls | maz                |
 |             | - anomaly      |                     | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - fierwalls      |                     | [3-2-2 firewalls](3-2-2.firewalls.pdf)
-Session 3              | SSL | pappu | [3-2-1.ssl](3-2-1.ssl.pdf)
-|             |           | pappu           | [3-2-2.ssl lab](3-2-2.ssl**lab.pdf)
+Session 3     | DNS & DNS Security      | randy                |
+|             | - DNS                   |                      | [3-4-1 DNS](DNS.pptx)
+|             | - DNS Security          |                      | [3-4-2 DNS Security](DNS**Security.pptx)
+|             | - DNS Rate Limiting     |                      | [3-4-3 DNS Rate Limiting](3-4-3.dns-rate-limit.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | DNS & DNS Security      | rick                 |
+Session 1     | DNS & DNS Security      | randy                |
 |             | - DNS                   |                      | [4-1-1 DNS](DNS.pptx)
 |             | - DNS Security          |                      | [4-1-2 DNS Security](DNS**Security.pptx)
 |             | - DNS Rate Limiting     | randy                | [4-1-3 DNS Rate Limiting](4-1-3.dns-rate-limit.pdf)
