@@ -97,10 +97,10 @@ Session 2     | anomaly and firewalls   | maz                  |
 |             | - anomaly      		|                      | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - fierwalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 3     | DNS & DNS Security      | alisha               |
-|             | - DNS                   |                      | [3-4-1 DNS](DNS.pptx)
-|             | - DNS Security          |                      | [3-4-2 DNS Security](DNS**Security.pptx)
-|             | - DNS Rate Limiting     | randy                | [3-4-3 DNS Rate Limiting](3-4-3.dns-rate-limit.pdf)
-Session 4     | nmap                    | maz                  |
+|             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)
+|             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)
+|             | - DNS Rate Limiting     | randy                | [3-3-3 DNS Rate Limiting](3-3-3.dns-rate-limit.pdf)
+Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
