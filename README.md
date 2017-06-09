@@ -105,15 +105,14 @@ Session 4     | nmap                    | maz                  | [3-4-1 scanning
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1&2   | IDS                      |                     | 
+Session 1     | IDS                      |                     | 
 |             | - IDS pragmatics - snort | maz                 | [4-1-1.ids](4-1-1.ids.pdf)
-Session 3     | Protecting Hosts from Net | maz                |
-|             | - hosts                 |                      | [4-3-1 Hosts](4-3-1.host.pdf)
-Session 4     | Virus, Mail and Browsing |                     |
-|             | - Anti-virus            | maz                  | [4-4-1 Anti-virus](4-4-1.anti-virus.pdf)
-|             | - Safe Mail Practices   | randy                | [4-4-2 Safer Mail](4-4-2.safer-mail.pdf)
-|             | - Safe Browsing Practices | randy              | [4-4-3 Safer browsing](4-4-3.safer-browsing.pdf)
-|             | - File & Disk Encryption | randy               | [4-4-4 File & Disk Encryption](4-4-4.file-encrypt.pdf)
+Session 2     | Protecting Hosts from Net | maz                |
+|             | - clients                 |                    | [4-2-1 Hosts](4-2-1.client.pdf)
+Session 3     | Safer Mail and Browsing |                     |
+|             | - Safe Mail Practices   | randy                | [4-3-1 Safer Mail](4-3-1.safer-mail.pdf)
+|             | - Safe Browsing Practices | randy              | [4-3-2 Safer browsing](4-3-2.safer-browsing.pdf)
+|             | - File & Disk Encryption | randy               | [4-3-3 File & Disk Encryption](4-3-2.file-encrypt.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
