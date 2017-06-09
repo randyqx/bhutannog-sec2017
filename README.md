@@ -113,7 +113,10 @@ Session 3     | Communities and cooperation| maz               | [4-3-1 cooperat
 Session 4     | Safer Mail and Browsing |                     |
 |             | - Safe Mail Practices   | randy                | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)
 |             | - Safe Browsing Practices | randy              | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)
-|             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-2.file-encrypt.pdf)
+|             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
+|             | scp and sftp             | randy               | [4-4-5 scp and sftp](4-4-5.scp+sftp.pdf)
+|             |                         |                      |
+workshop setup|                         |maz                   | [workshop setup] (workshop-setup.pdf)
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
