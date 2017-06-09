@@ -109,10 +109,11 @@ Session 1     | IDS                      |                     |
 |             | - IDS pragmatics - snort | maz                 | [4-1-1.ids](4-1-1.ids.pdf)
 Session 2     | Protecting Hosts from Net | maz                |
 |             | - clients                 |                    | [4-2-1 Hosts](4-2-1.client.pdf)
-Session 3     | Safer Mail and Browsing |                     |
-|             | - Safe Mail Practices   | randy                | [4-3-1 Safer Mail](4-3-1.safer-mail.pdf)
-|             | - Safe Browsing Practices | randy              | [4-3-2 Safer browsing](4-3-2.safer-browsing.pdf)
-|             | - File & Disk Encryption | randy               | [4-3-3 File & Disk Encryption](4-3-2.file-encrypt.pdf)
+Session 3     | Communities and cooperation| maz               | [4-3-1 cooperation](4-3-1.cooperation.pdf)
+Session 4     | Safer Mail and Browsing |                     |
+|             | - Safe Mail Practices   | randy                | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)
+|             | - Safe Browsing Practices | randy              | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)
+|             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-2.file-encrypt.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
