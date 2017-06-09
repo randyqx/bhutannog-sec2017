@@ -105,9 +105,8 @@ Session 4     | nmap                    | maz                  | [3-4-1 scanning
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | IDS                      |                   |
-|             | - IDS pragmatics - snort | maz                 | [4-2-1.snort](4-2-1.snort.pdf)
-|             | - IDS pragmatics - snort-lab | cristel & pappu                    | [4-2-2.snort-lab](4-2-2.snort-lab.pdf) | [4-2-3.snort**lab**answer](4-2-3.snort**lab**answer.rtf)
+Session 1&2   | IDS                      |                     | 
+|             | - IDS pragmatics - snort | maz                 | [4-1-1.ids](4-1-1.ids.pdf)
 Session 3     | Protecting Hosts from Net | maz                |
 |             | - hosts                 |                      | [4-3-1 Hosts](4-3-1.host.pdf)
 Session 4     | Virus, Mail and Browsing |                     |
