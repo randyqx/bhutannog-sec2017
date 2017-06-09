@@ -112,7 +112,7 @@ Session 2     | Protecting Hosts from Net | maz                |
 Session 3     | Safer Mail and Browsing |                     |
 |             | - Safe Mail Practices   | randy                | [4-3-1 Safer Mail](4-3-1.safer-mail.pdf)
 |             | - Safe Browsing Practices | randy              | [4-3-2 Safer browsing](4-3-2.safer-browsing.pdf)
-|             | - File & Disk Encryption | randy               | [4-3-3 File & Disk Encryption](4-3-2.file-encrypt.pdf)
+|             | - File & Disk Encryption | randy               | [4-3-3 File & Disk Encryption](4-3-3.file-encrypt.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
