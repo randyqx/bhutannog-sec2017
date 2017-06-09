@@ -115,7 +115,6 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - Safe Browsing Practices | randy              | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-2.file-encrypt.pdf)
 |             |                         |                      |
-|             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | Inter-Host Protocols    |                      |
