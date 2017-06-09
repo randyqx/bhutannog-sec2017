@@ -99,7 +99,6 @@ Session 2     | anomaly and firewalls   | maz                  |
 Session 3     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)
 |             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)
-|             | - DNS Rate Limiting     | randy                | [3-3-3 DNS Rate Limiting](3-3-3.dns-rate-limit.pdf)
 Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)
 |             |                         |                      |
 |             |                         |                      |
@@ -114,9 +113,9 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - Safe Mail Practices   | randy                | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)
 |             | - Safe Browsing Practices | randy              | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
-|             | scp and sftp             | randy               | [4-4-5 scp and sftp](4-4-5.scp+sftp.pdf)
-|             |                         |                      |
-workshop setup|                         |maz                   | [workshop setup] (workshop-setup.pdf)
+|             | scp and sftp             | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)
+|             | DNS Rate Limiting     | randy                | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)
+workshop setup|                         |maz                   | [workshop setup](workshop-setup.pdf)
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
